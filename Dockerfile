@@ -1,5 +1,4 @@
 FROM  python:2-alpine
-MAINTAINER RWd <rwd-github@gmx.net>
 
 RUN apk add --no-cache --update nodejs make g++ npm
 
